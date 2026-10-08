@@ -81,15 +81,7 @@ Team Project (8 engineers) | Feb – Mar 2026
 AI Now Incubator Hub (2026)
 
 ---
-## 🌊 Domain Edge
 
-My academic background in Aquaculture & Fisheries Management means I understand real-world domain problems — which is exactly why AquaGuide exists. I don't just build AI; I build AI for fields that need it.
-
----
-
-
-
----
 
 ## 📫 Connect
 
